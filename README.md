@@ -66,6 +66,17 @@ By connecting the boards in series and sending signals, a stable operation was a
 The machine stops working when the participant approaches. When the participant leaves, the machine resumes working.
 
 # Week 4
+This week is about exploring lighting and materials.  
+  
+Lighting：
+The Ultrasonic sensor is used to control two led lights to light up the mended area. The light shines through the canvas and the stacked layers of damage can be observed. The lighting adds a sense of ritual to the mending and is an appropriate output. But the distance needs to be mastered in production, the distance from the person to the sensor and the distance from the led to the surface being mended. 
+
+https://user-images.githubusercontent.com/119879041/206636985-129ff9ea-52a3-4002-abc7-4e884c8a553c.mov
+
+
+
+
+
 
 # Week 5
 

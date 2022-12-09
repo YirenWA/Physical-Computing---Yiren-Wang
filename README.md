@@ -66,9 +66,10 @@ Mending structure of the whole installation:
 The mend is divided into two parts. One is stationary and the other is in motion. Initially, I wanted to get the sewing machine in motion to find the mended surface. After testing the sewing machine I found that it was too heavy to steer steadily on its own. So I changed my thinking and wanted the surface being sewn to move.  
 
 In terms of its movement, I have experimented with rotation and linear movement and have concluded that rotation is the best to achieve. But the question is what part to use as the central axis.  
-1. The centre of the mending surface is the axis of rotation, with the sewing machine in the centre. 
-2. The axis of rotation is the point for the edge of the mended surface. And the range of rotation angles is within the setting. (Problem: the support is unstable, that needs to be solved)  
+1. The axis of rotation is the point for the edge of the mended surface. And the range of rotation angles is within the setting. (Problem: the support is unstable, that needs to be solved)  
+2. The centre of the mending surface is the axis of rotation, with the sewing machine in the centre.  
 
+![week2 sketch](https://user-images.githubusercontent.com/119879041/206706696-40a18071-0c60-42bd-9763-e8fb4d9d5615.jpg)
 
 In order to get plenty of experimentation, structurally I chose to hand frame the structure myself. This allowed for constant modification.  
 At the same time the combination of this week's work also determines the final Inputs and Outputs:  

@@ -53,6 +53,17 @@ In order to get plenty of experimentation, structurally I chose to hand frame th
 
 
 # Week 4
+This week it was mainly about choosing the motor, and the connection of its circuit.  
+  
+I have been experimenting with a variety of motors. The DC motor, the gear DC motor, the 180 degree servo motor, the 360 degree servo motor. 
+Later, in order to achieve a one IR sensor to control two motors at the same time. I use an L298N Motor Driver Board to connect two DC motors. However, it is not possible to achieve a large difference in speed between the two. The sewing DC motor needed to be fast and the surface being mended was very slow.  
+![week4](https://user-images.githubusercontent.com/119879041/206632161-3b122134-96f6-4273-a9ac-f04cabb28f77.jpg)
+
+I tried many ways to control the speed, from the code, to increasing the friction internally and externally, to slowing down the DC motor, but nothing worked. The solution was to use a servo motor to drive the mended surface. After experimenting with the large 180 degree servo motor, it was possible to drive the entire surface in a stable manner.  
+
+I finally used a DC MOTOR and a SERVO MOTOR and connected them to the two arduino boards separately. By connecting the boards in series. Where the servo motor is connected to the IR sensor on one board, the sensor receives the signal and sends it to the other board, enabling the stable function of the two motors.
+By connecting the boards in series and sending signals, a stable operation was achieved.
+
 
 
 # Week 5

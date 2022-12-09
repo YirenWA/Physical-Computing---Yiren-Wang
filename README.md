@@ -95,14 +95,9 @@ The final selection was to pass the sewing machine through the surface being men
 
 
 
-
-  
-
+# Week 5  
 
 
-
-
-
-# Week 5
+![week5](https://user-images.githubusercontent.com/119879041/206687848-0d8c06db-ac83-4baa-98e0-3b9546e94eef.jpg)
 
 

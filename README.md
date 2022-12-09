@@ -123,14 +123,16 @@ I soldered the leds with the resistor connected to the main board.
 Rethinking the structure:  
 After completing the code, I began to improve the structure of the device, thinking about the position of the sewing machine in relation to the mended surface.   
 
-![组装](https://user-images.githubusercontent.com/119879041/206689807-8553ac04-72ae-4e81-a8e1-a4581bafad0f.jpg)  
+ ![week5组装](https://user-images.githubusercontent.com/119879041/206704129-26c92c65-10cf-4708-8d72-8d4342a730c2.jpg)
+
 The final selection was to pass the sewing machine through the surface being mended and to keep the surface of the lower part of the sewing machine at a horizontal height to the surface being mended. For every rotation of the mended surface within a fixed angle, a further reverse rotation is performed.
 
 
 
 # Week 5  
-Final adjustment and assembly took place this week.
-
+Final adjustment and assembly took place this week.  
+The main problem occurred on the surface of the sewing contact.  
+I kept adjusting the height to ensure that the thread would be sewn into the surface.
 
 
 ![week5 1](https://user-images.githubusercontent.com/119879041/206689833-bbd2e949-e99b-43b8-b885-7b39346157c7.jpg)

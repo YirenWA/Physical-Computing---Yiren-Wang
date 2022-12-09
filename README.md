@@ -7,7 +7,6 @@ My topic is whether the hurt done in a relationship can be repaired by literal l
 Background:  
 The inspiration comes from a personal experience and some current social phenomena.  
 In my view, there is no way that past hurts in a relationship can be repaired by some words later on. The act of mending is a true disclosure of the hurt, and it more likes a secondary injury.  
-![week0](https://user-images.githubusercontent.com/119879041/206618844-afe138a5-a0ae-4d9e-bff2-107983f8057f.jpg)
 
 About Work:  
 It is an interactive installation.  
@@ -17,4 +16,28 @@ The process of everyone's interactive participation has made this work. In the e
 
 Initial ideas for the Structure:  
 For the structure of the mending machine, I would like to use a sewing machine or a stapler. One that has more of a sewing feel to it. And with the staples looking and sounding more like a hurt.  
-![week0 1](https://user-images.githubusercontent.com/119879041/206618916-8ac564f0-4cfd-4041-9e31-ddf4eb2e116e.jpg)
+![week0 1](https://user-images.githubusercontent.com/119879041/206618916-8ac564f0-4cfd-4041-9e31-ddf4eb2e116e.jpg)  
+  
+   
+WEEK 1  
+This week I will be thinking about the structures that enable interactive Input and Output and the work of the installation.
+
+Possible Inputs and Outputs to explore
+
+Input1
+Output1 
+
+WEEK 2  
+This week I will explore the structural principles of how a sewing machine works and combine them with my own installation. 
+  
+I bought the sewing machine and dismantled its construction and carried out research which led to the following results: 
+
+Firstly, my sewing machine need a movable part that work like a stapler. The lower part of the machine is fixed on a stable vertical surface by means of a motor and gears that drive the upper part into motion. For the construction of the sewing needle hole, I made a track to guide the thread and adjusted the height of the needle to ensure that the hook could hook the thread so that it would not come off.  
+Finally, I made it. 
+![week2](https://user-images.githubusercontent.com/119879041/206621432-28a9a8af-09f9-43c5-b372-ac5fc1d5de08.jpg)  
+
+Mending structure of the whole installation
+
+
+
+

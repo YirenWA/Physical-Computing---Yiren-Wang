@@ -16,7 +16,8 @@ The process of everyone's interactive participation has made this work. In the e
 
 Initial ideas for the Structure:  
 For the structure of the mending machine, I would like to use a sewing machine or a stapler. One that has more of a sewing feel to it. And with the staples looking and sounding more like a hurt.  
-![week0 1](https://user-images.githubusercontent.com/119879041/206618916-8ac564f0-4cfd-4041-9e31-ddf4eb2e116e.jpg)  
+![week0 2](https://user-images.githubusercontent.com/119879041/206622711-4c3d4c89-094c-4eb7-8f06-1b0602e82517.jpg)
+
   
    
 WEEK 1  

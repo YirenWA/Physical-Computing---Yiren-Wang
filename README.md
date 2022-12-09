@@ -144,3 +144,11 @@ Video: https://youtu.be/t61L5WNlduQ
 
 Future possibilities:  
 The participant sends out the text content on a digital carrier and the sewing machine directly stitches out the word content on the mended surface.  
+
+![2](https://user-images.githubusercontent.com/119879041/206761256-39f6ddda-65a9-4d9c-bf9f-6d0bdb46a28f.jpg)  
+
+![近景1_01799](https://user-images.githubusercontent.com/119879041/206761305-8f05d1c1-6f8a-49dd-8ea4-f3af79c55a56.jpg)  
+
+![微信图片_20221209174607](https://user-images.githubusercontent.com/119879041/206761657-c9b72d5a-1fd0-4154-92fc-494fe7bca453.jpg)
+
+

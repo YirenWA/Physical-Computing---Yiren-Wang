@@ -63,6 +63,7 @@ I finally used a DC MOTOR and a SERVO MOTOR and connected them to the two arduin
 By connecting the boards in series and sending signals, a stable operation was achieved.
 
 ![week4。1](https://user-images.githubusercontent.com/119879041/206634198-22210ae8-abd0-4eff-9495-33b1f07bcb65.jpg)
+The machine stops working when the participant approaches. When the participant leaves, the machine resumes working.
 
 # Week 4
 

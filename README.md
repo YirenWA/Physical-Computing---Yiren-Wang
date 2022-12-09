@@ -20,9 +20,10 @@ For the structure of the mending machine, I would like to use a sewing machine o
   
    
 # Week 1
-This week I will be thinking about the structures that enable interactive Input and Output and the work of the installation.  
+This week I will be thinking about implementing interactive Inputs and Outputs and the structure of how the installation works.  
 
 Possible Inputs and Outputs to explore:  
+
 Input 1:  Person " inputs" the words onto the sensing area - Touch sensor  
 Output 1:  The sewing machine moves to the specified position - Stepper motor/ Servo motor  
 Input 2:  Person triggers the switch to start the machine - ? sensor  
@@ -139,6 +140,7 @@ I kept adjusting the height to ensure that the thread would be sewn into the sur
 ![week5 1](https://user-images.githubusercontent.com/119879041/206689833-bbd2e949-e99b-43b8-b885-7b39346157c7.jpg)
 ![week5](https://user-images.githubusercontent.com/119879041/206687848-0d8c06db-ac83-4baa-98e0-3b9546e94eef.jpg)  
 
+Video: https://youtu.be/t61L5WNlduQ  
 
 Future possibilities:  
 The participant sends out the text content on a digital carrier and the sewing machine directly stitches out the word content on the mended surface.  

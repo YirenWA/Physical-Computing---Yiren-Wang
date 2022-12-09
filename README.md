@@ -24,7 +24,7 @@ This week I will be thinking about the structures that enable interactive Input 
 
 Possible Inputs and Outputs to explore
 
-Input1
+Input1  
 Output1 
 
 # Week 2  
@@ -34,9 +34,20 @@ I bought the sewing machine and dismantled its construction and carried out rese
 
 Firstly, my sewing machine need a movable part that work like a stapler. The lower part of the machine is fixed on a stable vertical surface by means of a motor and gears that drive the upper part into motion. For the construction of the sewing needle hole, I made a track to guide the thread and adjusted the height of the needle to ensure that the hook could hook the thread so that it would not come off.  
 Finally, I made it. 
-![week2](https://user-images.githubusercontent.com/119879041/206621432-28a9a8af-09f9-43c5-b372-ac5fc1d5de08.jpg)  
+![week2](https://user-images.githubusercontent.com/119879041/206621432-28a9a8af-09f9-43c5-b372-ac5fc1d5de08.jpg) 
 
-Mending structure of the whole installation
+https://user-images.githubusercontent.com/119879041/206625444-89b2e587-194d-472e-bfe3-4412095c5c44.mp4
+
+Mending structure of the whole installation:  
+The mend is divided into two parts. One is stationary and the other is in motion. Initially, I wanted to get the sewing machine in motion to find the mended surface. After testing the sewing machine I found that it was too heavy to steer steadily on its own. So I changed my thinking and wanted the surface being sewn to move.  
+In terms of its movement, I have experimented with rotation and linear movement and have concluded that rotation is the best to achieve. But the question is what part to use as the central axis.  
+
+1. The centre of the mending surface is the axis of rotation, with the sewing machine in the centre. 
+2. The axis of rotation is the point for the edge of the mended surface. And the range of rotation angles is within the setting. (Problem: the support is unstable, that needs to be solved)  
+
+
+In order to get plenty of experimentation, structurally I chose to hand frame the structure myself. This allowed for constant modification. 
+
 
 # Week 3
 

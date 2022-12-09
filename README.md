@@ -49,10 +49,8 @@ In terms of its movement, I have experimented with rotation and linear movement 
 In order to get plenty of experimentation, structurally I chose to hand frame the structure myself. This allowed for constant modification. 
 
 
+
 # Week 3
-
-
-# Week 4
 This week it was mainly about choosing the motor, and the connection of its circuit.  
   
 I have been experimenting with a variety of motors. The DC motor, the gear DC motor, the 180 degree servo motor, the 360 degree servo motor. 
@@ -64,7 +62,9 @@ I tried many ways to control the speed, from the code, to increasing the frictio
 I finally used a DC MOTOR and a SERVO MOTOR and connected them to the two arduino boards separately. By connecting the boards in series. Where the servo motor is connected to the IR sensor on one board, the sensor receives the signal and sends it to the other board, enabling the stable function of the two motors.
 By connecting the boards in series and sending signals, a stable operation was achieved.
 
+![week4。1](https://user-images.githubusercontent.com/119879041/206634198-22210ae8-abd0-4eff-9495-33b1f07bcb65.jpg)
 
+# Week 4
 
 # Week 5
 

@@ -23,19 +23,30 @@ For the structure of the mending machine, I would like to use a sewing machine o
 This week I will be thinking about the structures that enable interactive Input and Output and the work of the installation.  
 
 Possible Inputs and Outputs to explore:  
-Input1:  Person " inputs" the words onto the sensing area - Touch sensor  
-Output1:  The sewing machine moves to the specified position - Stepper motor/ Servo motor  
-Input2:  Person triggers the switch to start the machine - ? sensor  
-Output2:  Sewing machine starts mending - DC motor / Stepper motor / Servo motor  
+Input 1:  Person " inputs" the words onto the sensing area - Touch sensor  
+Output 1:  The sewing machine moves to the specified position - Stepper motor/ Servo motor  
+Input 2:  Person triggers the switch to start the machine - ? sensor  
+Output 2:  Sewing machine starts mending - DC motor / Stepper motor / Servo motor  
 
 
-Input1:  Hand moves in front of the installation - Ultrasonic sensor  
-Output1:  Machine follows hand movement position - Servo motor  
-Input2:  Person "inputs" words onto the installation- Pressure sensor (sensing area should be large)  
-Output2:  Sewing machine starts mending - DC motor / Stepper motor / Servo motor  
+Input 1:  Hand moves in front of the installation - Ultrasonic sensor  
+Output 1:  Machine follows hand movement position - Servo motor  
+Input 2:  Person "inputs" words onto the installation- Pressure sensor (sensing area should be large)  
+Output 2:  Sewing machine starts mending - DC motor / Stepper motor / Servo motor  
   
   
 Conception of the installation structure:  
+1. Using the track, create X,Y,Z axes. Lifting and moving left and right.
+2. Flexible gear structure for transfer to the specified position. Is it possible to plan the area to be mended, to set the conversion of the tracks, to recognise different areas to give different movement results and to position them precisely.
+3. Placement of two sewing machines to differentiate between left and right sensing.
+4. ...
+
+Inputs and outputs initially decided after the first week of experiments in combination with the installation structure:  
+
+Input1: People approaching the installation and " input " words - IR / PIR sensor  
+Output1: Sewing machine starts mending - DC motor / Stepper motor / Servo motor  
+Input2: Person approaching the installation - Ultrasonic sensor  
+Output2: Light under the repaired surface lights up to show the damage and repair on the mended surface - LED  
 
 
 
@@ -59,7 +70,15 @@ In terms of its movement, I have experimented with rotation and linear movement 
 2. The axis of rotation is the point for the edge of the mended surface. And the range of rotation angles is within the setting. (Problem: the support is unstable, that needs to be solved)  
 
 
-In order to get plenty of experimentation, structurally I chose to hand frame the structure myself. This allowed for constant modification. 
+In order to get plenty of experimentation, structurally I chose to hand frame the structure myself. This allowed for constant modification.  
+At the same time the combination of this week's work also determines the final Inputs and Outputs:  
+
+Input1: People approaching the installation and " input " words - IR sensor  
+Output1.1: Sewing machine starts working - DC motor   
+Output1.2: Mended surface starts to rotate - DC motor / Servo motor  
+Input2: Person approaching the installation - Ultrasonic sensor   
+Output2: Light under the repaired surface lights up to show the damage and repair on the mended surface - LED  
+
 
 
 # Week 3

@@ -1,6 +1,5 @@
 # Physical-Computing---Yiren-Wang
-WEEK 0 Ideation  
-Mending Relationships?   
+# Week 0 - Mending Relationships?   
 Topic:  
 My topic is whether the hurt done in a relationship can be repaired by literal language. 
 
@@ -20,7 +19,7 @@ For the structure of the mending machine, I would like to use a sewing machine o
 
   
    
-WEEK 1  
+# Week 1
 This week I will be thinking about the structures that enable interactive Input and Output and the work of the installation.
 
 Possible Inputs and Outputs to explore
@@ -28,7 +27,7 @@ Possible Inputs and Outputs to explore
 Input1
 Output1 
 
-WEEK 2  
+# Week 2  
 This week I will explore the structural principles of how a sewing machine works and combine them with my own installation. 
   
 I bought the sewing machine and dismantled its construction and carried out research which led to the following results: 
@@ -39,6 +38,12 @@ Finally, I made it.
 
 Mending structure of the whole installation
 
+# Week 3
 
+
+# Week 4
+
+
+# Week 5
 
 

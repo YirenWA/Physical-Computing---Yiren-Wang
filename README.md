@@ -84,6 +84,8 @@ It is also important to consider that the position of the light remains the same
 
 I soldered parts of it.  
 
+![焊接](https://user-images.githubusercontent.com/119879041/206687474-389c1c3e-016a-4069-bcdc-f8ba90466bdd.jpg)
+
 ![week4。3](https://user-images.githubusercontent.com/119879041/206686703-adb30419-34c3-492b-9e2b-534a4074beb7.jpg)
 
 Rethinking the structure:  

@@ -92,7 +92,7 @@ Later, in order to achieve a one IR sensor to control two motors at the same tim
 I tried many ways to control the speed, from the code, to increasing the friction internally and externally, to slowing down the DC motor, but nothing worked. The solution was to use a servo motor to drive the mended surface. After experimenting with the large 180 degree servo motor, it was possible to drive the entire surface in a stable manner.  
 
 I finally used a DC MOTOR and a SERVO MOTOR and connected them to the two arduino boards separately. By connecting the boards in series. Where the servo motor is connected to the IR sensor on one board, the sensor receives the signal and sends it to the other board, enabling the stable function of the two motors.
-By connecting the boards in series and sending signals, a stable operation was achieved.
+By connecting the boards in series and sending signals, a stable operation was achieved. For every rotation of the mended surface within a fixed angle, a further reverse rotation is performed.
 
 ![week4。1](https://user-images.githubusercontent.com/119879041/206634198-22210ae8-abd0-4eff-9495-33b1f07bcb65.jpg)  
 
@@ -125,7 +125,7 @@ After completing the code, I began to improve the structure of the device, think
 
  ![week5组装](https://user-images.githubusercontent.com/119879041/206704129-26c92c65-10cf-4708-8d72-8d4342a730c2.jpg)
 
-The final selection was to pass the sewing machine through the surface being mended and to keep the surface of the lower part of the sewing machine at a horizontal height to the surface being mended. For every rotation of the mended surface within a fixed angle, a further reverse rotation is performed.
+The final selection was to pass the sewing machine through the surface being mended and to keep the surface of the lower part of the sewing machine at a horizontal height to the surface being mended. 
 
 
 

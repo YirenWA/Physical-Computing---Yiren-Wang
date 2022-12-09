@@ -76,6 +76,7 @@ This week is about exploring lighting and materials.
   
 Lighting (with materials)：  
 The Ultrasonic sensor is used to control two led lights to light up the mended area. The lights come on as the participants approach. The lights shine through the canvas and the stacked layers of damage can be observed.  
+
 So when it comes to the choice of fabric, it should have some light transmission and be able to hold it in place and be moderately stiff. The lighting adds a sense of ritual to the mending and is an appropriate output. But the distance needs to be mastered in production, the distance from the person to the sensor and the distance from the led to the surface being mended.  
 It is also important to consider that the position of the light remains the same, so fix the light and the sewing machine on a flat surface so that the light is also kept at a distance from the mended surface to achieve a light transmission effect.  
 

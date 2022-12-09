@@ -22,10 +22,23 @@ For the structure of the mending machine, I would like to use a sewing machine o
 # Week 1
 This week I will be thinking about the structures that enable interactive Input and Output and the work of the installation.  
 
-Possible Inputs and Outputs to explore
+Possible Inputs and Outputs to explore:  
+Input1:  Person " inputs" the words onto the sensing area - Touch sensor  
+Output1:  The sewing machine moves to the specified position - Stepper motor/ Servo motor  
+Input2:  Person triggers the switch to start the machine - ? sensor  
+Output2:  Sewing machine starts mending - DC motor / Stepper motor / Servo motor  
 
-Input1  
-Output1 
+
+Input1:  Hand moves in front of the installation - Ultrasonic sensor  
+Output1:  Machine follows hand movement position - Servo motor  
+Input2:  Person "inputs" words onto the installation- Pressure sensor (sensing area should be large)  
+Output2:  Sewing machine starts mending - DC motor / Stepper motor / Servo motor  
+  
+  
+Conception of the installation structure:  
+
+
+
 
 # Week 2  
 This week I will explore the structural principles of how a sewing machine works and combine them with my own installation. 
@@ -82,22 +95,28 @@ It is also important to consider that the position of the light remains the same
 
 ![week4 2](https://user-images.githubusercontent.com/119879041/206681626-6913c636-7971-4ca2-8100-f5061cdf0190.jpg)  
 
-I soldered parts of it.  
+I soldered the leds with the resistor connected to the main board.
 
 ![焊接](https://user-images.githubusercontent.com/119879041/206687474-389c1c3e-016a-4069-bcdc-f8ba90466bdd.jpg)
 
 ![week4。3](https://user-images.githubusercontent.com/119879041/206686703-adb30419-34c3-492b-9e2b-534a4074beb7.jpg)
 
 Rethinking the structure:  
-After completing the code, I began to improve the structure of the device, thinking about the position of the sewing machine in relation to the mended surface.  
+After completing the code, I began to improve the structure of the device, thinking about the position of the sewing machine in relation to the mended surface.   
 
+![组装](https://user-images.githubusercontent.com/119879041/206689807-8553ac04-72ae-4e81-a8e1-a4581bafad0f.jpg)  
 The final selection was to pass the sewing machine through the surface being mended and to keep the surface of the lower part of the sewing machine at a horizontal height to the surface being mended. For every rotation of the mended surface within a fixed angle, a further reverse rotation is performed.
 
 
 
 # Week 5  
+Final adjustment and assembly took place this week.
 
 
-![week5](https://user-images.githubusercontent.com/119879041/206687848-0d8c06db-ac83-4baa-98e0-3b9546e94eef.jpg)
 
+![week5 1](https://user-images.githubusercontent.com/119879041/206689833-bbd2e949-e99b-43b8-b885-7b39346157c7.jpg)
+![week5](https://user-images.githubusercontent.com/119879041/206687848-0d8c06db-ac83-4baa-98e0-3b9546e94eef.jpg)  
+
+
+Future possibilities
 
